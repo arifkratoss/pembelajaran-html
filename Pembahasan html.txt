@@ -1,0 +1,22 @@
+Tag-Tag yang ada di dalam html{
+    <title></titile>
+    <style></style>
+    <script></script>
+    <meta></meta>
+}
+Tag-Tag yang bisa kita tulis di dalam body{
+    <h1>,<h2>,<h3>,<h4>,<h5>,<h6>,p
+   -pendukung teks(<br>,<hr>,<em>,<strong>)
+   -gambar(<img>)
+   -hyperlink (a)
+   -list( <ul>,<ol>,<li>,<dl>,<dt>,<dd>)
+   -Tabel( <table>,<thead>,<tbody>)
+   -from(<from>,<input>,<select>,<button>)
+   -Script(<object>)
+   -grouping(<div>,<span>)
+   -komentar(<!---->)
+}
+struktur tag html(<body bgcolor="lightblue">)
+Atribut global html {
+    <class,id,dir,lang,style,tabindex,title>
+}
